@@ -25,7 +25,7 @@
 <hr/>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Display&weight=500&size=30&pause=1000&color=38C0F7&center=true&vCenter=true&random=false&width=500&lines=Contact+Me" alt="Typing SVG" /></a><br/><br/>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Display&weight=500&size=30&pause=1000&color=C84141FF&center=true&vCenter=true&random=false&width=500&lines=Contact+Me" alt="Typing SVG" /></a><br/><br/>
   <a href="https://www.linkedin.com/in/malchupascual/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
