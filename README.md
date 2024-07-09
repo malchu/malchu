@@ -1,7 +1,7 @@
 <div align="center" >
     <img src="https://github.com/malchu/malchu/blob/main/silverwolf.gif" width="700" height="300"/>
     <br/><br/>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Display&weight=600&size=40&pause=1000&color=5668F7&center=true&vCenter=true&random=false&width=1000&height=70&lines=Hi%2C+I'm+Malchu.+Welcome+to+my+GitHub." alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Display&weight=600&size=40&pause=1000&color=3F54FFFF&center=true&vCenter=true&random=false&width=1000&height=70&lines=Hi%2C+I'm+Malchu.+Welcome+to+my+GitHub." alt="Typing SVG" /></a>
     <hr/>
 </div>
 
@@ -17,7 +17,7 @@
 <hr/>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Display&weight=500&size=30&pause=1000&color=8F56F7&center=true&vCenter=true&random=false&width=500&lines=Languages%2C+Frameworks%2C+and+Tools" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Display&weight=500&size=30&pause=1000&color=823CFFFF&center=true&vCenter=true&random=false&width=500&lines=Languages%2C+Frameworks%2C+and+Tools" alt="Typing SVG" /></a>
     <br/><br/>
     <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,angular,python,java,mongodb,git,vscode,windows">
 </div>
@@ -25,7 +25,14 @@
 <hr/>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Display&weight=500&size=30&pause=1000&color=C84141FF&center=true&vCenter=true&random=false&width=500&lines=Contact+Me" alt="Typing SVG" /></a><br/><br/>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=malchu&theme=violet-punch&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malchu&locale=en&hide_title=false&layout=compact&langs_count=5&hide_border=true&order=2&bg_color=000000FF&text_color=E4E4E4FF&title_color=374DFFFF&card_width=495"/>
+</div>
+
+<hr/>
+
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Display&weight=500&size=30&pause=1000&color=FF5151FF&center=true&vCenter=true&random=false&width=500&lines=Contact+Me" alt="Typing SVG" /></a><br/><br/>
   <a href="https://www.linkedin.com/in/malchupascual/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
