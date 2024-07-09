@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<div align="center" >
+    <img src="https://upload-os-bbs.hoyolab.com/upload/2023/06/11/237552429/41ad25cae93b676232921dbe0fbcfa58_5120893170232406286.gif" width="900" height="200"/>
+</div>
+
 <!--
 **malchu/malchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
