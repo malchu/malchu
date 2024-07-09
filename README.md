@@ -1,5 +1,5 @@
 <div align="center" >
-    <img src="https://github.com/malchu/malchu/blob/main/silverwolf.gif" width="900" height="400"/>
+    <img src="https://github.com/malchu/malchu/blob/main/silverwolf.gif" width="700" height="300"/>
     <br/><br/>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Display&weight=600&size=40&pause=1000&color=5668F7&center=true&vCenter=true&random=false&width=1000&height=70&lines=Hi%2C+I'm+Malchu.+Welcome+to+my+GitHub." alt="Typing SVG" /></a>
     <hr/>
