@@ -25,8 +25,8 @@
 <hr/>
 
 <div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=malchu&theme=violet-punch&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malchu&locale=en&hide_title=false&layout=compact&langs_count=5&hide_border=true&order=2&bg_color=000000FF&text_color=E4E4E4FF&title_color=374DFFFF&card_width=495"/>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=malchu&theme=violet-punch&hide_border=true&exclude_days=Sun%2CSat&card_width=400" alt="GitHub Streak" /></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malchu&locale=en&hide_title=false&layout=compact&langs_count=5&hide_border=true&order=2&bg_color=000000FF&text_color=E4E4E4FF&title_color=374DFFFF&card_width=400"/>
 </div>
 
 <hr/>
