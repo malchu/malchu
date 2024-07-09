@@ -7,7 +7,7 @@
 
 
 
-<h4 align="center">👯 I'm a software developer passionate about coding solutions for people. 👯</h4>
+<h4 align="center">👯 I'm a software developer passionate about coding creative solutions for people. 👯</h4>
 <h4 align="center">😄 Seeing my projects come to life ignites my passion for coding: real-world solutions or fun applications. 😄</h4>
 <h4 align="center">📚 I graduated from UMD with a Bachelor's degree in Computer Science. 📚</h4>
 <h4 align="center">🖥️ My current tech stack is C#, .NET, Angular, and MySQL. 🖥️</h4>
